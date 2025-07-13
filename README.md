@@ -71,7 +71,6 @@ This repository provides a complete pipeline to train a **TensorFlow 2 Object De
 - Trained `.tflite` model
 - Quantized version with metadata
 - Evaluation metrics (e.g. mAP)
-![Demo](traffsign.gif)
 
 ---
 
