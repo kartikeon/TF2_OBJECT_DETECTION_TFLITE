@@ -14,8 +14,8 @@ This repository provides a complete pipeline to train a **TensorFlow 2 Object De
 ![Demo](assets/gbox.gif) -->
 
 <p align="center">
-  <img src="assets/rbox.gif" alt="Red Box" width="50%" />
-  <img src="assets/gbox.gif" alt="Green Box" width="50%" />
+  <img src="assets/rbox.gif" alt="Red Box" width="45%" />
+  <img src="assets/gbox.gif" alt="Green Box" width="45%" />
 </p>
 
 
