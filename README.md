@@ -7,7 +7,17 @@ This repository provides a complete pipeline to train a **TensorFlow 2 Object De
 ## 📁 Notebook: `TF2_CUSTOM_OBJECT_DETECTION_COMPLETE_RUN.ipynb`
 
 
-![Demo](assets/rbox.gif) ![Demo](assets/gbox.gif)
+### ✅ Output
+
+<!-- ![Demo](assets/rbox.gif) 
+
+![Demo](assets/gbox.gif) -->
+
+<p align="center">
+  <img src="assets/rbox.gif" alt="Red Box" width="45%" />
+  <img src="assets/gbox.gif" alt="Green Box" width="45%" />
+</p>
+
 
 ### ✅ Features
 - Python environment setup for TensorFlow 2.x
